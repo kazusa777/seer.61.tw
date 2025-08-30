@@ -1,4 +1,6 @@
 <h1>賽爾號登陸器使用說明書</h1>
+<h2>這個倉庫僅作為個人學術研究之資料整理，所有內容與登錄器製作無關，亦不涉及任何商業或非法用途。</h2>
+
 <p>這是一份關於賽爾號登陸器的簡易使用說明，詳細請看<a href="https://github.com/kazusa777/seer.61.tw/blob/main/1.1.2%E4%BD%BF%E7%94%A8%E8%AA%AA%E6%98%8E%E6%9B%B8.pdf">1.1.2使用說明書</a>。</p>
 
 <h2 id="目錄">目錄</h2>
@@ -179,3 +181,25 @@
 <ul>
 <li>將背包內所有精靈全部放入倉庫。</li>
 </ul>
+
+</h2>
+</h2>
+</h2>
+<h1>非營利與學術研究聲明
+
+本存儲庫之內容，係為個人進行學術研究與資料探討而設立。所有資料之整理與發布，其目的僅限於技術分析與學術交流，不涉及任何商業利益或非法活動之圖利。
+
+本平台嚴格遵守相關法律法規，並堅決維護網路生態之健康與安全。任何使用者不得將本倉庫之資料，用於任何非法、不道德或具爭議性之行為。使用者應自行承擔所有因不當利用本平台資料所產生之法律責任與風險。
+
+**本人在此聲明，本人非登錄器之製作人或開發者。** 任何對本平台內容之誤解、曲解或不當引用，皆非本人所樂見。本平台不鼓勵、不支持任何形式之非法軟體開發或散布。本存儲庫之設立，僅為學術研究之資料整理與技術交流，旨在為相關領域之研究者提供參考。
+
+---
+
+### Non-Profit & Academic Research Statement
+
+The content within this repository is compiled and maintained for the sole purpose of personal academic research and data analysis. The organization and publication of this material are strictly limited to technical analysis and scholarly exchange, with no intent for commercial gain or engagement in illicit activities.
+
+This platform operates in strict adherence to all relevant laws and regulations, and is committed to fostering a secure and healthy online environment. Users are expressly forbidden from utilizing the information contained herein for any illegal, unethical, or controversial purposes. All legal liabilities and risks arising from the misuse of this platform's data shall be borne solely by the user.
+
+**I hereby declare that I am not the creator or developer of any associated logging software.** Any misinterpretation, misrepresentation, or inappropriate citation of this platform's content is not the intention of the author. This platform does not endorse or support the development or distribution of any form of illegal software. The establishment of this repository is purely for the academic compilation of data and technical exchange, intended to serve as a reference for researchers in related fields.</h1>
+
