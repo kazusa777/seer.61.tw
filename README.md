@@ -18,7 +18,7 @@
 <hr>
 
 <h2 id="地圖">地圖</h2>
-<p><img src="請在此處貼上您的圖片網址" alt="地圖功能截圖"></p>
+<p><img src="https://i.postimg.cc/76zZH7mW/03.jpg" alt="地圖功能截圖"></p>
 <ul>
 <li><strong>鐘樓</strong>: 點選後可以快速返回鐘樓。</li>
 <li><strong>返回上一張地圖</strong>: 點選後可以回到上一張地圖。</li>
