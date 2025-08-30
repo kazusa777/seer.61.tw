@@ -1,4 +1,4 @@
-整理了目前可用的賽爾號台服登錄器
+</h1>整理了目前可用的賽爾號台服登錄器</h1>
 <h1>賽爾號輔助工具使用說明書</h1>
 <p>這是一份關於賽爾號輔助工具的詳細使用說明。</p>
 
@@ -27,7 +27,7 @@
 <hr>
 
 <h2 id="圖標">圖標</h2>
-<p><img src="請在此處貼上您的圖片網址" alt="圖標功能截圖"></p>
+<p><img src="https://i.postimg.cc/gcv21Vww/05.jpg" alt="圖標功能截圖"></p>
 <ul>
 <li>非 VIP 玩家也可以使用隱藏圖標功能。</li>
 </ul>
@@ -35,7 +35,7 @@
 <hr>
 
 <h2 id="道具商店">道具商店</h2>
-<p><img src="請在此處貼上您的圖片網址" alt="道具商店截圖"></p>
+<p><img src="https://i.postimg.cc/fRgzY5PP/07.jpg" alt="道具商店截圖"></p>
 <ul>
 <li>可以快速購買正常渠道獲得的所有藥劑。</li>
 <li><strong>異能精靈膠囊</strong>: 一次最多可以製作50個。
@@ -46,7 +46,7 @@
 <hr>
 
 <h2 id="套裝選擇器">套裝選擇器</h2>
-<p><img src="請在此處貼上您的圖片網址" alt="套裝選擇器截圖"></p>
+<p><img src="https://i.postimg.cc/PqgdRJTz/09.jpg" alt="套裝選擇器截圖"></p>
 <ul>
 <li>可以快速一鍵換裝。
 <blockquote><strong>注意</strong>: 換目鏡會直接在現有的套裝上再戴上去，腐蝕套記得別用。</blockquote>
@@ -56,7 +56,7 @@
 <hr>
 
 <h2 id="稱號">稱號</h2>
-<p><img src="請在此處貼上您的圖片網址" alt="稱號功能截圖"></p>
+<p><img src="https://i.postimg.cc/HnHdTNJr/11.jpg" alt="稱號功能截圖"></p>
 <ul>
 <li>可以快速切換已有的能力稱號。</li>
 </ul>
@@ -64,7 +64,7 @@
 <hr>
 
 <h2 id="一鍵借火自動借火">一鍵借火/自動借火</h2>
-<p><img src="請在此處貼上您的圖片網址" alt="借火功能截圖"></p>
+<p><img src="https://i.postimg.cc/NF4YFxTp/13.jpg" alt="借火功能截圖"></p>
 <ul>
 <li><strong>一鍵借火</strong>: 一鍵搜尋本地圖中擁有綠火的玩家並借取。</li>
 <li><strong>自動借火</strong>:
@@ -79,7 +79,7 @@
 <hr>
 
 <h2 id="bgm切換">BGM切換</h2>
-<p><img src="請在此處貼上您的圖片網址" alt="BGM切換截圖"></p>
+<p><img src="https://i.postimg.cc/85mxmz5C/15.jpg" alt="BGM切換截圖"></p>
 <ul>
 <li><strong>位置</strong>: <code>/resources/music</code></li>
 <li>把資料夾裡的音樂刪除，即可恢復遊戲原始音樂。</li>
@@ -92,7 +92,7 @@
 <hr>
 
 <h2 id="每日助手">每日助手</h2>
-<p><img src="請在此處貼上您的圖片網址" alt="每日助手截圖"></p>
+<p><img src="https://i.postimg.cc/HnWRZ1c9/17.jpg" alt="每日助手截圖"></p>
 <ul>
 <li><strong>通用說明</strong>:
 <ul>
@@ -147,7 +147,7 @@
 <hr>
 
 <h2 id="背包">背包</h2>
-<p><img src="請在此處貼上您的圖片網址" alt="背包功能截圖"></p>
+<p><img src="https://i.postimg.cc/wTGZVP6D/31.jpg" alt="背包功能截圖"></p>
 <h3>匯出背包精靈</h3>
 <ul>
 <li>將當前背包所有精靈，依照獲取時間由舊到新匯出成 <code>.txt</code> 檔案。</li>
