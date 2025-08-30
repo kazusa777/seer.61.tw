@@ -1,5 +1,5 @@
 <h1>賽爾號登陸器使用說明書</h1>
-<p>這是一份關於賽爾號登陸器的簡易使用說明 詳細請看<img src="https://github.com/kazusa777/seer.61.tw/blob/main/1.1.2%E4%BD%BF%E7%94%A8%E8%AA%AA%E6%98%8E%E6%9B%B8.pdf" alt="［使用說明書］">
+<p>這是一份關於賽爾號登陸器的簡易使用說明，詳細請看<a href="https://github.com/kazusa777/seer.61.tw/blob/main/1.1.2%E4%BD%BF%E7%94%A8%E8%AA%AA%E6%98%8E%E6%9B%B8.pdf">1.1.2使用說明書</a>。</p>
 
 <h2 id="目錄">目錄</h2>
 <ul>
